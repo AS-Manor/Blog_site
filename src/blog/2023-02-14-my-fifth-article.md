@@ -1,7 +1,7 @@
 ---
 title: My Fifth Article
 author: Abdul Manor
-date: 14-02-2023
+date: 2023-02-14
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test

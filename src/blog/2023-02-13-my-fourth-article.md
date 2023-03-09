@@ -1,7 +1,7 @@
 ---
 title: My Fourth Article
 author: Abdul Manor
-date: 13-02-2023
+date: 2023-02-13
 image: /assets/blog/article-4.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?

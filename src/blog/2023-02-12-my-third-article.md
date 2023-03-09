@@ -1,7 +1,7 @@
 ---
 title: My Third Article
 author: Abdul Manor
-date: 12-02-2023
+date: 2023-02-12
 tags: ['post', 'featured']
 image: /assets/blog/article-3.jpg
 imageAlt: This is a test
